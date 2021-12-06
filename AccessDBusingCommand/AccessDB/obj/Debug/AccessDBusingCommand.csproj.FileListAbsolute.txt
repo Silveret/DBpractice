@@ -1,0 +1,56 @@
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.exe.config
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.exe
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.pdb
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.Form1.resources
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.Properties.Resources.resources
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDBusingCommand.csproj.GenerateResource.Cache
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.exe
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.pdb
+E:\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.exe.config
+E:\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.exe
+E:\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.pdb
+E:\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csprojResolveAssemblyReference.cache
+E:\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form1.resources
+E:\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Properties.Resources.resources
+E:\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csproj.GenerateResource.Cache
+E:\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.exe
+E:\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.pdb
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課講義\第十一週 Command\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.exe.config
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課講義\第十一週 Command\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.exe
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課講義\第十一週 Command\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.pdb
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.exe.config
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.exe
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.pdb
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csprojAssemblyReference.cache
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form1.resources
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Properties.Resources.resources
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csproj.GenerateResource.cache
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csproj.CoreCompileInputs.cache
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.exe
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.pdb
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form2.resources
+D:\download\AccessDBusingCommand (1)\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form3.resources
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.exe.config
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.exe
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.pdb
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csprojAssemblyReference.cache
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form1.resources
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form2.resources
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form3.resources
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Properties.Resources.resources
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csproj.GenerateResource.cache
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csproj.CoreCompileInputs.cache
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.exe
+C:\Users\jack2\OneDrive\桌面\資料庫程式設計\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.pdb
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.exe.config
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.exe
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\bin\Debug\AccessDB.pdb
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csproj.AssemblyReference.cache
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form1.resources
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form2.resources
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Form3.resources
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.Properties.Resources.resources
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csproj.GenerateResource.cache
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDBusingCommand.csproj.CoreCompileInputs.cache
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.exe
+D:\學習資料\程式相關\資料庫\資料庫程式設計\我的實做\期末報告\AccessDBusingCommand\AccessDB\obj\Debug\AccessDB.pdb

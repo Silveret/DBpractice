@@ -1,0 +1,31 @@
+C:\Users\Shu\Desktop\Zak\AccessDB\AccessDB\bin\Debug\AccessDB.exe.config
+C:\Users\Shu\Desktop\Zak\SQL Command_ok\AccessDB\bin\Debug\AccessDB.exe.config
+C:\Users\Shu\Desktop\Zak\SQL Command_ok\AccessDB\bin\Debug\AccessDB.exe
+C:\Users\Shu\Desktop\Zak\SQL Command_ok\AccessDB\bin\Debug\AccessDB.pdb
+C:\Users\Shu\Desktop\Zak\SQL Command_ok\AccessDB\obj\Debug\AccessDB.csprojResolveAssemblyReference.cache
+C:\Users\Shu\Desktop\Zak\SQL Command_ok\AccessDB\obj\Debug\AccessDB.Form1.resources
+C:\Users\Shu\Desktop\Zak\SQL Command_ok\AccessDB\obj\Debug\AccessDB.Properties.Resources.resources
+C:\Users\Shu\Desktop\Zak\SQL Command_ok\AccessDB\obj\Debug\AccessDB.csproj.GenerateResource.Cache
+C:\Users\Shu\Desktop\Zak\SQL Command_ok\AccessDB\obj\Debug\AccessDB.exe
+C:\Users\Shu\Desktop\Zak\SQL Command_ok\AccessDB\obj\Debug\AccessDB.pdb
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\C#-資料庫程式設計範例\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.exe.config
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\C#-資料庫程式設計範例\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.exe
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\C#-資料庫程式設計範例\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.pdb
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.exe.config
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.exe
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.pdb
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.exe
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.pdb
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.csprojResolveAssemblyReference.cache
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.Form1.resources
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.Properties.Resources.resources
+D:\My Documents\Shu\課程\資料庫程式設計\講義與程式及作業\上課範例\邱冠智\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.csproj.GenerateResource.Cache
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.exe.config
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.exe
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.pdb
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.exe
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\bin\Debug\AccessDB.pdb
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.csprojResolveAssemblyReference.cache
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.Form1.resources
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.Properties.Resources.resources
+C:\Users\w\Desktop\SQL Command_ok_CS\AccessDB\obj\Debug\AccessDB.csproj.GenerateResource.Cache
